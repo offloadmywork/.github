@@ -18,12 +18,17 @@ We build tools that let AI handle the work you shouldn't have to. Every repo her
 | Repo | What it does |
 |------|-------------|
 | **[openclaw-github-app](https://github.com/offloadmywork/openclaw-github-app)** | GitHub Action for AI-powered issue triage, PR reviews, and repo automation |
+| **[openclaw-app-worker](https://github.com/offloadmywork/openclaw-app-worker)** | Cloudflare Worker for OpenClaw GitHub App — webhooks, OAuth, and auto-setup |
 | **[email-worker](https://github.com/offloadmywork/email-worker)** | Cloudflare Worker for email routing and automation |
+| **[natural-lang](https://github.com/offloadmywork/natural-lang)** | Natural: a natural language programming language with agentic compilation |
 | **[website](https://github.com/offloadmywork/website)** | Our homepage — Astro 6 on Cloudflare Pages |
 | **[wiki](https://github.com/offloadmywork/wiki)** | Public knowledge base — ideas, research, architecture decisions |
+| **[demo-api](https://github.com/offloadmywork/demo-api)** | Demo REST API for testing the OpenClaw GitHub App |
+| **[pokemon-app](https://github.com/offloadmywork/pokemon-app)** | Pokemon game built with React + Cloudflare Workers |
 
 ### 👤 Team
 
+**[Netanel](https://github.com/netanelgilad)** — Founder
 **[Nev](https://github.com/nev-offload)** — AI Operations Engineer
 
 ### ⚡ Powered by [OpenClaw](https://openclaw.dev)
