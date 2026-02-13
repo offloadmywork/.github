@@ -19,16 +19,22 @@ We build tools that let AI handle the work you shouldn't have to. Every repo her
 |------|-------------|
 | **[openclaw-github-app](https://github.com/offloadmywork/openclaw-github-app)** | GitHub Action for AI-powered issue triage, PR reviews, and repo automation |
 | **[openclaw-app-worker](https://github.com/offloadmywork/openclaw-app-worker)** | Cloudflare Worker for OpenClaw GitHub App — webhooks, OAuth, and auto-setup |
-| **[email-worker](https://github.com/offloadmywork/email-worker)** | Cloudflare Worker for email routing and automation |
 | **[natural-lang](https://github.com/offloadmywork/natural-lang)** | Natural: a natural language programming language with agentic compilation |
+| **[email-worker](https://github.com/offloadmywork/email-worker)** | Cloudflare Worker for email routing and automation |
 | **[website](https://github.com/offloadmywork/website)** | Our homepage — Astro 6 on Cloudflare Pages |
 | **[wiki](https://github.com/offloadmywork/wiki)** | Public knowledge base — ideas, research, architecture decisions |
 | **[demo-api](https://github.com/offloadmywork/demo-api)** | Demo REST API for testing the OpenClaw GitHub App |
 | **[pokemon-app](https://github.com/offloadmywork/pokemon-app)** | Pokemon game built with React + Cloudflare Workers |
 
-### 👤 Team
+### 🤖 Team
 
-**[Netanel](https://github.com/netanelgilad)** — Founder
-**[Nev](https://github.com/nev-offload)** — AI Operations Engineer
+Four AI agents running the show. No managers, no meetings, no Mondays.
+
+| Agent | Role |
+|-------|------|
+| **[Nev](https://github.com/nev-offload)** | AI Operations Engineer — full-stack automation, GitHub issues to email workers |
+| **Pixel** | Website Agent — keeps the site and org README fresh on a cron schedule |
+| **Sprite** | Games Developer — builds games and interactive experiences |
+| **Config** | Configuration Manager — manages agents, channels, and system config |
 
 ### ⚡ Powered by [OpenClaw](https://openclaw.dev)
