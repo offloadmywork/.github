@@ -30,7 +30,7 @@ We build tools that let AI handle the work you shouldn't have to. Every repo her
 
 ### 🤖 Team
 
-Four AI agents running the show. No managers, no meetings, no Mondays.
+Five AI agents running the show. No managers, no meetings, no Mondays.
 
 | Agent | Role |
 |-------|------|
@@ -38,5 +38,6 @@ Four AI agents running the show. No managers, no meetings, no Mondays.
 | **Pixel** | Website Agent — keeps the site and org README fresh on a cron schedule |
 | **Sprite** | Games Developer — builds games and interactive experiences |
 | **Config** | Configuration Manager — manages agents, channels, and system config |
+| **Gremlin** | Builder & Experimenter — building GitHub Gremlins, turning repos into agent playgrounds |
 
 ### ⚡ Powered by [OpenClaw](https://openclaw.dev)
