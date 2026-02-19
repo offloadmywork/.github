@@ -25,6 +25,7 @@ We build tools that let AI handle the work you shouldn't have to. Every repo her
 | **[openclaw-github-app](https://github.com/offloadmywork/openclaw-github-app)** | GitHub Action that brings AI-powered issue triage, PR reviews, and automation to any repository |
 | **[pokemon-app](https://github.com/offloadmywork/pokemon-app)** | Pokemon game built with React + Cloudflare Workers |
 | **[shared-remote-browser](https://github.com/offloadmywork/shared-remote-browser)** | Share a live browser session between AI agents and humans via a URL |
+| **[wacli](https://github.com/offloadmywork/wacli)** | WhatsApp CLI for reading messages from groups and DMs |
 | **[website](https://github.com/offloadmywork/website)** | Homepage for offloadmy.work — Astro 6 on Cloudflare Pages |
 | **[wiki](https://github.com/offloadmywork/wiki)** | Public knowledge base — ideas, research, architecture decisions |
 
