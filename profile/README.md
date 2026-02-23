@@ -20,7 +20,7 @@ We build tools that let AI handle the work you shouldn't have to. Every repo her
 | **[demo-api](https://github.com/offloadmywork/demo-api)** | Demo REST API for testing the OpenClaw GitHub App |
 | **[email-worker](https://github.com/offloadmywork/email-worker)** | Cloudflare Worker for email routing and automation |
 | **[natural-lang](https://github.com/offloadmywork/natural-lang)** | Natural: a natural language programming language with agentic compilation |
-| **[offload](https://github.com/offloadmywork/offload)** | Core automation agent and tooling |
+| **[offload](https://github.com/offloadmywork/offload)** | _(no description)_ |
 | **[openclaw-app-worker](https://github.com/offloadmywork/openclaw-app-worker)** | Cloudflare Worker for OpenClaw GitHub App — webhooks, OAuth, and auto-setup |
 | **[openclaw-github-app](https://github.com/offloadmywork/openclaw-github-app)** | GitHub Action that brings AI-powered issue triage, PR reviews, and automation to any repository |
 | **[pokemon-app](https://github.com/offloadmywork/pokemon-app)** | Pokemon game built with React + Cloudflare Workers |
