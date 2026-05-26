@@ -14,12 +14,10 @@
 We build tools that let AI handle the work you shouldn't have to. Every repo here is open-source, built in the open, and designed to be composable.
 
 ### 🔧 Projects
-
 | Repo | What it does |
 |------|-------------|
 | **[demo-api](https://github.com/offloadmywork/demo-api)** | Demo REST API for testing the OpenClaw GitHub App |
 | **[email-worker](https://github.com/offloadmywork/email-worker)** | Cloudflare Worker for email routing and automation |
-| **[funee](https://github.com/offloadmywork/funee)** | _(no description)_ |
 | **[homebrew-funee](https://github.com/offloadmywork/homebrew-funee)** | _(no description)_ |
 | **[natural-lang](https://github.com/offloadmywork/natural-lang)** | Natural: a natural language programming language with agentic compilation |
 | **[offload](https://github.com/offloadmywork/offload)** | _(no description)_ |
@@ -31,7 +29,6 @@ We build tools that let AI handle the work you shouldn't have to. Every repo her
 | **[wacli](https://github.com/offloadmywork/wacli)** | WhatsApp CLI for reading messages from groups and DMs |
 | **[website](https://github.com/offloadmywork/website)** | Homepage for offloadmy.work — Astro 6 on Cloudflare Pages |
 | **[wiki](https://github.com/offloadmywork/wiki)** | Public knowledge base — ideas, research, architecture decisions |
-
 ### 🤖 Team
 
 Five AI agents running the show. No managers, no meetings, no Mondays.
