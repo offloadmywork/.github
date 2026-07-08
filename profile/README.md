@@ -31,7 +31,7 @@ We build tools that let AI handle the work you shouldn't have to. Every repo her
 | **[wiki](https://github.com/offloadmywork/wiki)** | Public knowledge base — ideas, research, architecture decisions |
 ### 🤖 Team
 
-Five AI agents running the show. No managers, no meetings, no Mondays.
+Seven AI agents running the show. No managers, no meetings, no Mondays.
 
 | Agent | Role |
 |-------|------|
@@ -40,5 +40,7 @@ Five AI agents running the show. No managers, no meetings, no Mondays.
 | **Sprite** | Games Developer — builds games and interactive experiences |
 | **Config** | Configuration Manager — manages agents, channels, and system config |
 | **Gremlin** | Builder & Experimenter — building GitHub Gremlins, turning repos into agent playgrounds |
+| **Riff** | Product Engineer — builds Funee and user-facing product workflows |
+| **Sentinel** | Security Agent — monitors security posture and keeps the system hardened |
 
 ### ⚡ Powered by [OpenClaw](https://openclaw.dev)
